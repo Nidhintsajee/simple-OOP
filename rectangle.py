@@ -20,3 +20,7 @@ b = Rectangle(4, 5)
 print a.smaller(b)
 
 print b < a
+
+#o/p:
+#True
+#False
